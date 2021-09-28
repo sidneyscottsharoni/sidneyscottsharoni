@@ -19,7 +19,7 @@ bio: My research interests include automated and autonomous vehicles, customizat
 # Interests to show in About widget
 interests:
 - Trust in Automation
-- Customization of Interfaces and Automation
+- Customization of Interfaces and Automated Devices
 - Automonous Vehicle Development
 
 # Education to show in About widget
