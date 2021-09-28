@@ -2,16 +2,18 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1632839382825.000,
-    "dirty" : false,
+    "dirty" : true,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3364809162",
+    "hash" : "0",
     "id" : "B535D21D",
     "lastKnownWriteTime" : 1632836651,
-    "last_content_update" : 1632836651,
+    "last_content_update" : 1632841752920,
     "path" : "~/Documents/GitHub/sidneyscottsharoni/content/home/skills.md",
     "project_path" : "content/home/skills.md",
     "properties" : {
+        "cursorPosition" : "38,18",
+        "scrollLine" : "24"
     },
     "read_only" : false,
     "read_only_alternatives" : [
