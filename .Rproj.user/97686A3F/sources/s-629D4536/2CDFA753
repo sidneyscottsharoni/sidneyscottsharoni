@@ -1,24 +1,22 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1632839061571.000,
-    "dirty" : true,
+    "created" : 1632839127301.000,
+    "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
-    "id" : "1770C76B",
+    "hash" : "3364809162",
+    "id" : "2CDFA753",
     "lastKnownWriteTime" : 1632836651,
     "last_content_update" : 1632836651,
-    "path" : "~/Documents/GitHub/sidneyscottsharoni/content/home/talks.md",
-    "project_path" : "content/home/talks.md",
+    "path" : "~/Documents/GitHub/sidneyscottsharoni/content/home/skills.md",
+    "project_path" : "content/home/skills.md",
     "properties" : {
-        "cursorPosition" : "15,57",
-        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 9,
+    "relative_order" : 13,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "markdown"
